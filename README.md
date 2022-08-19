@@ -1,5 +1,6 @@
 # Project-Bebodywise
 # WEB-BebodywiseClone-Project
+We worked on cloning a BODYWISE website. This website is mainly for women, where they provide women health-related products and services. in this project, we used HTML, CSS, JAVASCRIPT which we have merged by using GITHUB. Our project is dynamic and responsive in work. This is a team project, built by us in the Construct Week - Unit 2 at Masai School.
 This is a team project, built by us in the Construct Week in Unit-2 at Masai School
 
 
